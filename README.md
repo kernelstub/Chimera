@@ -1,10 +1,9 @@
 
-<h1 align="center">CHIMERA</h1>
+#  CHIMERA
 
-<p align="center">
-  <strong>Advanced Linux Rootkit Framework</strong><br>
-  Kernel-space persistence, encrypted C2, hypervisor evasion, polymorphic code mutation
-</p>
+
+  > Advanced Linux Rootkit Framework</strong><br>
+  > Kernel-space persistence, encrypted C2, hypervisor evasion, polymorphic code mutation
 
 ---
 
